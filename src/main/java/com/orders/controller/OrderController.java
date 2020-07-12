@@ -20,6 +20,8 @@ public class OrderController
 	
 	String ITEM_POST_URL="http://localhost:5001/OrderItems/createOrderItems";
 	
+	String MY_OWN_URL = "http://myownurl";
+	
 	
 	@Autowired
 	OrderService service;
