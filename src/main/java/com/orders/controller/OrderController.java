@@ -26,6 +26,7 @@ public class OrderController
 	String MY_OWN_URL = "http://myownurlsravs";
 	
 	String channges="test";
+	String ytur ="fghgf";
 
 
 	
