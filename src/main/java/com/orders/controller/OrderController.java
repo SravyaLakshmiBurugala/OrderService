@@ -22,8 +22,8 @@ public class OrderController
 	
 	String ANOTHER_MY_OWN_URL = "http://myanotherownurl";
 
+	String MY_OWN_URL = "http://myownurlsatis";
 
-	String MY_OWN_URL = "http://myownurlsravs";
 	
 	String channges="test";
 	String ytur ="fghgf";
