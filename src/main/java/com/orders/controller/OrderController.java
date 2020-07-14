@@ -25,6 +25,16 @@ public class OrderController
 	String MY_OWN_URL = "http://myownurlsatis";
 
 	
+	String channges="test";
+	String ytur ="fghgf";
+
+	String yes="stash";
+
+	
+	String stash ="stash";
+
+
+	
 	
 	@Autowired
 	OrderService service;
