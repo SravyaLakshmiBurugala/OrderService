@@ -22,7 +22,7 @@ public class OrderController
 	
 	String ANOTHER_MY_OWN_URL = "http://myanotherownurl";
 
-	String MY_OWN_URL = "http://myownurl";
+	String MY_OWN_URL = "http://myownurlsatis";
 
 	
 	
